@@ -1,1 +1,1 @@
-# NLP_based_menu_recommendation
+bert-based-menu-recommendation
